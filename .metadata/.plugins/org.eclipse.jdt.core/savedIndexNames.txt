@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\John of the Cross\Desktop\demos\1-core-java\Spring_Fundamentals\.metadata\.plugins\org.eclipse.jdt.core
+3869369088.index
+3398359948.index
+1924100551.index
+3043734976.index
+105499084.index
+1195878129.index
+2279727903.index
+1865797976.index
